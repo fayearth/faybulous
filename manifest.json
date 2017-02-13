@@ -1,0 +1,25 @@
+{
+  "short_name": "FAY",
+  "name": "Fayearth",
+  "display": "standalone",
+  "background_color": "#D32",
+  "theme_color": "#D32",
+  "icons": [
+    {
+      "src": "https://2.bp.blogspot.com/-OmxxFLtu0Gc/WDOBKNu6Q9I/AAAAAAAAGV4/A42Sim1d2Yg0uSftanIL8lJIbvUVS3c6gCLcB/s96/fayIcon.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+{
+    "src": "https://2.bp.blogspot.com/-OmxxFLtu0Gc/WDOBKNu6Q9I/AAAAAAAAGV4/A42Sim1d2Yg0uSftanIL8lJIbvUVS3c6gCLcB/s144/fayIcon.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  },
+    {
+      "src": "https://2.bp.blogspot.com/-OmxxFLtu0Gc/WDOBKNu6Q9I/AAAAAAAAGV4/A42Sim1d2Yg0uSftanIL8lJIbvUVS3c6gCLcB/s192/fayIcon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "https://fayearth.blogspot.com/?utm_source=fayblog&utm_campaign=homescreen&utm_medium=app"
+}
